@@ -82,7 +82,8 @@ Candidate Registration   /
 
 Application Status Viewer   /status/:id
 
-![image](https://github.com/user-attachments/assets/bb1fffac-68f2-410b-9eb0-9e49a87c034c)
+![image](https://github.com/user-attachments/assets/28c57baf-ca54-4e31-b22d-ad728342b164)
+
 
 
 Admin Login  /admin/login
